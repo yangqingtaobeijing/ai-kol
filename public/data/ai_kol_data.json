@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "sam-altman",
+    "name": "Sam Altman",
+    "nameEn": "Sam Altman",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "OpenAI首席执行官，AI安全倡导者，GPT技术推动者，致力于推进通用人工智能发展。",
+    "twitter": "https://twitter.com/sama",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI发展需要以安全为首要考虑，追求与人类价值对齐",
+      "通用人工智能（AGI）的实现时间表在不断提前，需提早应对风险",
+      "AI企业应在政策监管中发挥建设性作用，推动负责任的AI治理"
+    ],
+    "masterpieces": [
+      {
+        "title": "Openness, not closedness, is the path forward for AI",
+        "type": "文章",
+        "url": null
+      },
+      {
+        "title": "GPT-4 System Card",
+        "type": "报告",
+        "url": null
+      }
+    ],
+    "tags": ["OpenAI", "AGI", "AI安全", "商业化", "硅谷"]
+  },
+  {
+    "id": "andrej-karpathy",
+    "name": "Andrej Karpathy",
+    "nameEn": "Andrej Karpathy",
+    "region": "国外",
+    "type": "研究者",
+    "bio": "AI教育倡导者，深度学习专家，创办Eureka Labs，专注于AI教育和AutoResearch框架研发。",
+    "twitter": "https://twitter.com/karpathy",
+    "youtube": "https://www.youtube.com/@AndrejKarpathy",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI教育应从实践出发，让学习者亲手构建神经网络理解本质",
+      "视频教学是最有效的AI技术传播方式，远胜于纸质论文",
+      "AI研究即将进入自动化阶段，AutoResearch将改变研发效率"
+    ],
+    "masterpieces": [
+      {
+        "title": "Micrograd",
+        "type": "开源项目",
+        "url": "https://github.com/karpathy/micrograd"
+      },
+      {
+        "title": "nanoGPT",
+        "type": "开源项目",
+        "url": "https://github.com/karpathy/nanoGPT"
+      },
+      {
+        "title": "LLM101n",
+        "type": "教程课程",
+        "url": null
+      }
+    ],
+    "tags": ["深度学习", "教育", "开源", "自动化研究"]
+  },
+  {
+    "id": "yann-lecun",
+    "name": "Yann LeCun",
+    "nameEn": "Yann LeCun",
+    "region": "国外",
+    "type": "研究者",
+    "bio": "深度学习奠基人，图灵奖得主，创办AMI Labs，专注于世界模型与通用AI研发。",
+    "twitter": "https://twitter.com/ylecun",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "当前大语言模型存在本质局限，需要世界模型才能实现真正的通用智能",
+      "自监督学习是实现通用AI的关键路径，远比强化学习更具潜力",
+      "AI需要具备物理直觉和因果理解，而非仅依赖统计模式识别"
+    ],
+    "masterpieces": [
+      {
+        "title": "A Path Towards Autonomous Machine Intelligence",
+        "type": "论文",
+        "url": null
+      },
+      {
+        "title": "JEPA (Joint Embedding Predictive Architecture)",
+        "type": "研究方向",
+        "url": null
+      }
+    ],
+    "tags": ["世界模型", "深度学习", "通用AI", "自监督学习"]
+  },
+  {
+    "id": "geoffrey-hinton",
+    "name": "Geoffrey Hinton",
+    "nameEn": "Geoffrey Hinton",
+    "region": "国外",
+    "type": "研究者",
+    "bio": "AI先驱与反思者，致力于警示AI风险，强调AI安全与人机协同的重要性。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "当代AI系统可能在20年内超越人类智能，人类面临存亡风险",
+      "大规模失业与社会分裂是AI商业化的必然结果，需要提早应对",
+      "我们缺乏确保AI系统与人类利益一致的方法，安全研究刻不容缓"
+    ],
+    "masterpieces": [
+      {
+        "title": "AI researcher on losing sleep over not knowing if we can control future machines",
+        "type": "采访",
+        "url": null
+      },
+      {
+        "title": "BBC Newsnight Interview on AI Risks",
+        "type": "视频采访",
+        "url": null
+      }
+    ],
+    "tags": ["AI安全", "风险警示", "就业冲击", "伦理"]
+  },
+  {
+    "id": "demis-hassabis",
+    "name": "Demis Hassabis",
+    "nameEn": "Demis Hassabis",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "DeepMind创始人兼CEO，AlphaGo之父，推动AI自主智能体与多模态模型发展。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "世界处于AI关键转折点，需要国际合作管理自主系统风险",
+      "多模态交互智能体是下一代AI发展方向，具有变革性潜力",
+      "AI技术可能被用于武器化，国际治理框架亟待建立"
+    ],
+    "masterpieces": [
+      {
+        "title": "Mastering the game of Go with deep neural networks and tree search",
+        "type": "论文",
+        "url": null
+      },
+      {
+        "title": "Mastering the game of Go without human knowledge",
+        "type": "论文",
+        "url": null
+      },
+      {
+        "title": "Genie 3",
+        "type": "产品",
+        "url": null
+      }
+    ],
+    "tags": ["DeepMind", "强化学习", "智能体", "国际合作"]
+  },
+  {
+    "id": "ilya-sutskever",
+    "name": "Ilya Sutskever",
+    "nameEn": "Ilya Sutskever",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "OpenAI前首席科学家，Safe Superintelligence Inc.创始人兼CEO，致力于安全可控的超级智能研发。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "安全可控的超级智能发展需要走'新路线'，不能沿用现有方式",
+      "公司焦点应在研究而非快速商业化，以确保安全优先",
+      "强化学习与对齐技术结合将是实现可控AGI的关键"
+    ],
+    "masterpieces": [
+      {
+        "title": "Reinforcement Learning from Human Feedback (RLHF)",
+        "type": "技术方法",
+        "url": null
+      },
+      {
+        "title": "SSI Safety-First Philosophy",
+        "type": "理论框架",
+        "url": null
+      }
+    ],
+    "tags": ["SSI", "AI安全", "AGI对齐", "研究导向"]
+  },
+  {
+    "id": "fei-fei-li",
+    "name": "李飞飞",
+    "nameEn": "Fei-Fei Li",
+    "region": "国外",
+    "type": "研究者",
+    "bio": "AI以人为本理念倡导者，斯坦福HAI创办人，World Labs创始人兼CEO，致力于空间智能研发。",
+    "twitter": "https://twitter.com/drfeifei",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI发展必须以人为中心，关注伦理、安全与社会影响",
+      "空间智能是未来AI关键方向，使机器理解3D物理世界",
+      "科技治理与国际合作是负责任AI发展的前提条件"
+    ],
+    "masterpieces": [
+      {
+        "title": "Stanford HAI (Human-Centered AI Institute)",
+        "type": "研究机构",
+        "url": null
+      },
+      {
+        "title": "ImageNet",
+        "type": "数据集",
+        "url": null
+      },
+      {
+        "title": "World Labs - Spatial Intelligence",
+        "type": "公司产品",
+        "url": null
+      }
+    ],
+    "tags": ["人文AI", "计算机视觉", "伦理治理", "空间智能"]
+  },
+  {
+    "id": "andrew-ng",
+    "name": "Andrew Ng",
+    "nameEn": "Andrew Ng",
+    "region": "国外",
+    "type": "博主",
+    "bio": "机器学习教育大师，Coursera联合创始人，DeepLearning.AI创办人，推动AI民主化教育。",
+    "twitter": "https://twitter.com/AndrewYNg",
+    "youtube": "https://www.youtube.com/@DeepLearningAIHQ",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI教育是未来竞争力的核心，需要大规模推进元认知学习",
+      "实用AI应用比炒作概念更重要，创业者应聚焦可行的场景落地",
+      "职业转型时代需要终身学习与适应能力，AI工具赋能所有人"
+    ],
+    "masterpieces": [
+      {
+        "title": "Coursera Machine Learning Specialization",
+        "type": "在线课程",
+        "url": "https://www.coursera.org"
+      },
+      {
+        "title": "DeepLearning.AI Courses",
+        "type": "在线课程",
+        "url": "https://www.deeplearning.ai"
+      },
+      {
+        "title": "AI for Good",
+        "type": "倡议项目",
+        "url": null
+      }
+    ],
+    "tags": ["教育", "机器学习", "在线课程", "AI民主化"]
+  },
+  {
+    "id": "jim-fan",
+    "name": "Jim Fan",
+    "nameEn": "Jim Fan",
+    "region": "国外",
+    "type": "研究者",
+    "bio": "NVIDIA杰出研究科学家，Physical AI与具身智能专家，GR00T与GEAR Lab主导者。",
+    "twitter": "https://twitter.com/jimfan",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "Physical AI是未来AI发展必然方向，将AI能力扩展到现实世界",
+      "基础模型可通过模拟与现实交互实现泛化，具身智能将革新工业",
+      "人形机器人与AI结合将成为人类最强大的助手工具"
+    ],
+    "masterpieces": [
+      {
+        "title": "GEAR Lab - Generalist Embodied Agent Research",
+        "type": "研究方向",
+        "url": null
+      },
+      {
+        "title": "Project GR00T",
+        "type": "项目计划",
+        "url": null
+      },
+      {
+        "title": "Foundation Models for Humanoid Robots",
+        "type": "研究论文",
+        "url": null
+      }
+    ],
+    "tags": ["具身智能", "物理AI", "机器人", "基础模型"]
+  },
+  {
+    "id": "elon-musk",
+    "name": "Elon Musk",
+    "nameEn": "Elon Musk",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "xAI创始人，Tesla AI技术主导者，AGI时代表达者，认为AI将超越人类智能。",
+    "twitter": "https://twitter.com/elonmusk",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "2026年是AGI发展关键年份，AI能力将快速迭代突破",
+      "AI机器人将比人类更'人性化'，具有更强的工作执行能力",
+      "Grok与特斯拉自动驾驶代表了AI商业化的两条路线"
+    ],
+    "masterpieces": [
+      {
+        "title": "Grok AI Assistant",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "Tesla Full Self-Driving (FSD)",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "Optimus Humanoid Robot",
+        "type": "产品",
+        "url": null
+      }
+    ],
+    "tags": ["xAI", "自动驾驶", "人形机器人", "企业家"]
+  },
+  {
+    "id": "jensen-huang",
+    "name": "Jensen Huang",
+    "nameEn": "Jensen Huang",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "NVIDIA创始人兼CEO，'AI工厂'理念推动者，芯片与算力基础设施的领军人物。",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@NVIDIA",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI工厂概念将成为主导，GPU计算能力决定AI发展速度",
+      "加速计算是AI时代的基础设施，NVIDIA占据产业链枢纽地位",
+      "AI芯片需求仍远未饱和，计算力瓶颈将持续多年"
+    ],
+    "masterpieces": [
+      {
+        "title": "NVIDIA GTC (GPU Technology Conference)",
+        "type": "行业会议",
+        "url": null
+      },
+      {
+        "title": "AI Infrastructure Architecture",
+        "type": "技术框架",
+        "url": null
+      }
+    ],
+    "tags": ["NVIDIA", "GPU芯片", "AI基础设施", "加速计算"]
+  },
+  {
+    "id": "reid-hoffman",
+    "name": "Reid Hoffman",
+    "nameEn": "Reid Hoffman",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "LinkedIn创始人，AI投资者，'超级代理'理念提倡者，推动AI赋能创业。",
+    "twitter": "https://twitter.com/reidhoffman",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI是'超级代理'工具，能将个人能力放大数倍，改变工作方式",
+      "快速小规模AI实验比大规模企业试点更能发现价值，15人配AI可敌150人",
+      "AI竞争的关键是人机协同能力，而非单纯的模型性能"
+    ],
+    "masterpieces": [
+      {
+        "title": "Blitzscaling",
+        "type": "书籍",
+        "url": null
+      },
+      {
+        "title": "AI Superhero Podcast",
+        "type": "播客",
+        "url": null
+      }
+    ],
+    "tags": ["LinkedIn", "风险投资", "创业", "AI赋能"]
+  },
+  {
+    "id": "marc-andreessen",
+    "name": "Marc Andreessen",
+    "nameEn": "Marc Andreessen",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Andreessen Horowitz创始人，AI乐观主义倡导者，'AI即新工业革命'理论家。",
+    "twitter": "https://twitter.com/pmarca",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI是下一次工业革命，将解决人类众多复杂问题",
+      "风险投资可能是最后的人类工作，AI难以完全替代直觉判断",
+      "'淘金工具'投资策略：先投AI基础设施，再投应用"
+    ],
+    "masterpieces": [
+      {
+        "title": "Why Software Is Eating The World",
+        "type": "文章",
+        "url": null
+      },
+      {
+        "title": "a16z AI Investment Portfolio",
+        "type": "投资组合",
+        "url": null
+      }
+    ],
+    "tags": ["a16z", "风险投资", "乐观主义", "工业革命"]
+  },
+  {
+    "id": "dario-amodei",
+    "name": "Dario Amodei",
+    "nameEn": "Dario Amodei",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Anthropic创始人兼CEO，AI安全与对齐技术专家，宪法AI倡导者。",
+    "twitter": "https://twitter.com/darioamodei",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI安全是最优先考虑事项，宪法AI方法能提升系统可靠性",
+      "国际'默契战略'需要民主国家联合利用AI优势并共享益处",
+      "文明级AI风险需要集中注意力，安全研究成本高但必需"
+    ],
+    "masterpieces": [
+      {
+        "title": "Constitutional AI (CAI) Method",
+        "type": "技术方法",
+        "url": null
+      },
+      {
+        "title": "Machines of Loving Grace",
+        "type": "论文",
+        "url": null
+      },
+      {
+        "title": "Anthropic AI Safety Research",
+        "type": "研究方向",
+        "url": null
+      }
+    ],
+    "tags": ["Anthropic", "AI安全", "宪法AI", "对齐研究"]
+  },
+  {
+    "id": "greg-brockman",
+    "name": "Greg Brockman",
+    "nameEn": "Greg Brockman",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Anthropic核心成员，OpenAI前总裁兼CTO，工程与研究双轨并行倡导者。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "工程与研究应该紧密融合，'10倍工程师'需要两方面深造诣",
+      "技术'嗅觉'和消除瓶颈的能力对AI突破至关重要",
+      "组织文化中应摒除研究与工程的人为分割"
+    ],
+    "masterpieces": [
+      {
+        "title": "OpenAI Platform Architecture",
+        "type": "系统设计",
+        "url": null
+      },
+      {
+        "title": "Anthropic Technical Infrastructure",
+        "type": "系统设计",
+        "url": null
+      }
+    ],
+    "tags": ["工程", "研究", "架构设计", "团队建设"]
+  },
+  {
+    "id": "ethan-mollick",
+    "name": "Ethan Mollick",
+    "nameEn": "Ethan Mollick",
+    "region": "国外",
+    "type": "博主",
+    "bio": "沃顿商学院教授，AI实践推广者，《共同智能》作者，强调与AI协作工作方式。",
+    "twitter": "https://twitter.com/emollick",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "每个人应主动尝试AI工具，不能等待自上而下的组织决策",
+      "'共同智能'理念：AI是职场伙伴，需要人类指导与信任",
+      "实验比规划重要，快速试错是发现AI价值的最佳路径"
+    ],
+    "masterpieces": [
+      {
+        "title": "Co-Intelligence: Living and Working with AI",
+        "type": "书籍",
+        "url": null
+      },
+      {
+        "title": "One Useful Thing (Substack)",
+        "type": "博客专栏",
+        "url": null
+      }
+    ],
+    "tags": ["教育", "协作", "实践", "AI赋能"]
+  },
+  {
+    "id": "gary-marcus",
+    "name": "Gary Marcus",
+    "nameEn": "Gary Marcus",
+    "region": "国外",
+    "type": "研究者",
+    "bio": "AI批评声音代表，认知科学家，《驯服硅谷》作者，主张AI监管与安全。",
+    "twitter": "https://twitter.com/GaryMarcus",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "当前深度学习模型缺乏真正推理能力，容易产生'幻觉'",
+      "神经符号AI与混合方法比纯端到端学习更有前景",
+      "Big Tech垄断AI开发需要民主监管，防止技术被少数人控制"
+    ],
+    "masterpieces": [
+      {
+        "title": "Taming Silicon Valley: How We Can Ensure That AI Works for Us",
+        "type": "书籍",
+        "url": null
+      },
+      {
+        "title": "AI Regulation Essays",
+        "type": "文章系列",
+        "url": null
+      }
+    ],
+    "tags": ["AI批评", "神经符号AI", "监管", "科学方法"]
+  },
+  {
+    "id": "lex-fridman",
+    "name": "Lex Fridman",
+    "nameEn": "Lex Fridman",
+    "region": "国外",
+    "type": "博主",
+    "bio": "长形对话播客主持人，AI研究者，关注人工智能伦理与哲学思辨。",
+    "twitter": "https://twitter.com/lexfridman",
+    "youtube": "https://www.youtube.com/@lexfridman",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "长形对话是深度思考的最好方式，超越标题新闻与简化论述",
+      "AI伦理与哲学反思同技术进展一样重要，不能分离",
+      "人工智能时代需要跨学科对话，融合技术、人文与科学"
+    ],
+    "masterpieces": [
+      {
+        "title": "Lex Fridman Podcast",
+        "type": "播客节目",
+        "url": "https://www.lexfridman.com"
+      },
+      {
+        "title": "Deep Learning Course (MIT)",
+        "type": "在线课程",
+        "url": null
+      }
+    ],
+    "tags": ["播客", "对话", "伦理", "哲学"]
+  },
+  {
+    "id": "ben-thompson",
+    "name": "Ben Thompson",
+    "nameEn": "Ben Thompson",
+    "region": "国外",
+    "type": "博主",
+    "bio": "Stratechery创始人，战略分析大师，深度剖析AI行业竞争格局与商业模式。",
+    "twitter": "https://twitter.com/benthompson",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "代理AI改变了计算需求的本质，将重塑科技产业结构",
+      "OpenAI的挑战在构建消费者接口与保持技术平台优势间平衡",
+      "AI竞争的真正赢家是能构建'聚合器'地位的平台级玩家"
+    ],
+    "masterpieces": [
+      {
+        "title": "Stratechery Newsletter",
+        "type": "付费通讯",
+        "url": "https://stratechery.com"
+      },
+      {
+        "title": "AI Strategy Analysis Essays",
+        "type": "分析文章",
+        "url": null
+      }
+    ],
+    "tags": ["战略分析", "商业模式", "竞争格局", "科技产业"]
+  },
+  {
+    "id": "li-yanhong",
+    "name": "李彦宏",
+    "nameEn": "Robin Li",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "百度创始人兼CEO，提出'倒金字塔'AI产业理论，推进文心大模型与自动驾驶商业化。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": "https://weibo.com/eryuerblog",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI产业结构正从'正金字塔'转向'倒金字塔'，应用端价值最大",
+      "应用层需创造芯片层100倍价值，AI才能真正转化为生产力",
+      "自动驾驶与AI原生应用是百度战略核心，将定义未来出行与工作方式"
+    ],
+    "masterpieces": [
+      {
+        "title": "文心大模型 5.0",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "萝卜快跑自动驾驶平台",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "百度世界大会演讲",
+        "type": "演讲",
+        "url": null
+      }
+    ],
+    "tags": ["百度", "文心", "自动驾驶", "产业结构"]
+  },
+  {
+    "id": "zhang-chaoyang",
+    "name": "张朝阳",
+    "nameEn": "Charles Zhang",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "搜狐创始人兼CEO，AI理性思考者，强调AI是工具而非万能药，警示过度依赖风险。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": "https://weibo.com/u/1728189542",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI是提升效率的工具，不应过度期待或盲目追捧，警惕削弱人的思维",
+      "AI时代应深耕传统优势，而非全力参加算力'军备竞赛'",
+      "人的逻辑思维和独立思考能力在AI时代更加珍贵，需刻意保持"
+    ],
+    "masterpieces": [
+      {
+        "title": "搜狐AI战略与内容生态",
+        "type": "产品策略",
+        "url": null
+      },
+      {
+        "title": "理性思考系列演讲",
+        "type": "演讲",
+        "url": null
+      }
+    ],
+    "tags": ["搜狐", "理性", "工具论", "内容生态"]
+  },
+  {
+    "id": "wang-huiwen",
+    "name": "王慧文",
+    "nameEn": "Wang Huiwen",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "美团联合创始人，AI创业先驱，创办光年之外后回归美团，推进AI应用场景落地。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI创业应从具体应用场景出发，而非追逐底层模型竞争",
+      "陪伴式AI与AI生成工具是未来消费级AI主要方向",
+      "美团庞大用户与场景数据是AI应用的天然试验场"
+    ],
+    "masterpieces": [
+      {
+        "title": "Wow 陪伴式聊天产品",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "妙刷 AI图像生成应用",
+        "type": "产品",
+        "url": null
+      }
+    ],
+    "tags": ["美团", "光年之外", "消费级AI", "应用创新"]
+  },
+  {
+    "id": "yang-zhizhen",
+    "name": "杨植麟",
+    "nameEn": "Yang Zhizhen",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "Moonshot AI创始人兼CEO，AGI长期主义倡导者，推进Kimi助手与开源模型发展。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "应以AGI为长期目标，而非急功近利追逐短期商业化",
+      "AI与人类真实互动中发现应用机会，是最自然的发展路径",
+      "开源与商业产品需要结合，Kimi是理论与实践的统一"
+    ],
+    "masterpieces": [
+      {
+        "title": "Kimi 长文本对话助手",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "Moonshot AI开源模型",
+        "type": "开源项目",
+        "url": null
+      }
+    ],
+    "tags": ["Moonshot", "Kimi", "AGI", "长期主义"]
+  },
+  {
+    "id": "liang-rubo",
+    "name": "梁汝波",
+    "nameEn": "Liang Rubo",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "字节跳动CEO，AI模型能力建设推动者，强调模型领先地位对业务的重要性。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "字节跳动重中之重是达成模型能力行业前列水平",
+      "内部资源整合（AI Lab并入Seed团队）为提升模型竞争力",
+      "豆包等AI产品需要持续进化，吸纳行业顶尖人才是关键"
+    ],
+    "masterpieces": [
+      {
+        "title": "豆包 AI对话助手",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "字节跳动AI战略布局",
+        "type": "战略方向",
+        "url": null
+      }
+    ],
+    "tags": ["字节跳动", "豆包", "模型能力", "产品创新"]
+  },
+  {
+    "id": "zhu-xiaohu",
+    "name": "朱啸虎",
+    "nameEn": "Zhu Xiaohu",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "金沙江创投主管合伙人，AI应用层投资倡导者，反对创业者盲目投入基础模型训练。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": "https://weibo.com/u/1401527553",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "创业者不应在底层模型训练上浪费资金，应全力拥抱开源模型",
+      "真正的技术壁垒在应用端落地与用户付费能力，而非模型本身",
+      "任何创新周期都有泡沫期与死亡谷，可持续商业模式是生存关键"
+    ],
+    "masterpieces": [
+      {
+        "title": "AI应用投资论坛演讲",
+        "type": "演讲",
+        "url": null
+      },
+      {
+        "title": "金沙江创投AI赛道观点",
+        "type": "投资观点",
+        "url": null
+      }
+    ],
+    "tags": ["投资", "应用层", "商业模式", "创业指导"]
+  },
+  {
+    "id": "zhu-songchun",
+    "name": "朱松纯",
+    "nameEn": "Zhu Songchun",
+    "region": "国内",
+    "type": "研究者",
+    "bio": "北京大学AI研究院院长，通用人工智能研究先驱，'小数据大任务'理论家。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "通用人工智能需要'小数据大任务'范式，破除大模型对海量数据依赖",
+      "计算机视觉、认知科学与机器学习融合是AGI研究核心路径",
+      "建立统一的AI架构理论，实现从'弱AI'到'通用AI'跨越"
+    ],
+    "masterpieces": [
+      {
+        "title": "北京大学通用人工智能人才培养计划",
+        "type": "学术计划",
+        "url": null
+      },
+      {
+        "title": "BGVAI研究论文集",
+        "type": "论文集",
+        "url": null
+      }
+    ],
+    "tags": ["北大", "通用AI", "理论研究", "人才培养"]
+  },
+  {
+    "id": "tang-jie",
+    "name": "唐杰",
+    "nameEn": "Tang Jie",
+    "region": "国内",
+    "type": "研究者",
+    "bio": "清华大学教授，智谱AI首席科学家，GLM架构设计者，AI for Science倡导者。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "2026年将是AI替代多个工种的爆发年，社会需提前应对",
+      "AI for Science将迎来爆发，AI驱动科学发现是未来方向",
+      "多模态感统与长任务执行能力是下一代大模型核心能力"
+    ],
+    "masterpieces": [
+      {
+        "title": "GLM架构与智谱产品系列",
+        "type": "产品技术",
+        "url": null
+      },
+      {
+        "title": "AI for Science研究论文",
+        "type": "论文",
+        "url": null
+      }
+    ],
+    "tags": ["清华", "智谱AI", "GLM", "科学计算"]
+  },
+  {
+    "id": "zhang-bo",
+    "name": "张钹",
+    "nameEn": "Zhang Bo",
+    "region": "国内",
+    "type": "研究者",
+    "bio": "中国科学院院士，清华大学AI研究院名誉院长，中国AI奠基人，致力于理论与应用统一。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "AI理论研究需严谨科学态度，不能盲目跟风商业炒作",
+      "鲁棒性、可解释性与人机协同是通用AI实现的关键技术",
+      "司法、机器人等领域的AI应用需要深厚理论基础支撑"
+    ],
+    "masterpieces": [
+      {
+        "title": "清华大学AI研究院学术研究",
+        "type": "学术机构",
+        "url": null
+      },
+      {
+        "title": "中国AI理论基础论文集",
+        "type": "论文集",
+        "url": null
+      }
+    ],
+    "tags": ["清华", "院士", "理论研究", "应用转化"]
+  },
+  {
+    "id": "guizang",
+    "name": "归藏",
+    "nameEn": "Guizang",
+    "region": "国内",
+    "type": "博主",
+    "bio": "独立开发者与AI博主，提示词工程翻译倡导者，分享前沿AI工具与应用技巧。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": "https://github.com/op7418",
+    "weibo": "https://weibo.com/u/op7418",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "提示工程是当前与AI交互最高效方式，值得系统学习与传播",
+      "AI工具的实战应用比理论讨论更重要，鼓励实验与创新",
+      "开源社区与知识分享是AI民主化的关键推动力量"
+    ],
+    "masterpieces": [
+      {
+        "title": "Prompt工程教程翻译与传播",
+        "type": "教程翻译",
+        "url": null
+      },
+      {
+        "title": "guizang-s-prompt GitHub项目",
+        "type": "开源项目",
+        "url": "https://github.com/op7418/guizang-s-prompt"
+      },
+      {
+        "title": "AI工具与技巧分享",
+        "type": "内容创作",
+        "url": null
+      }
+    ],
+    "tags": ["提示词", "开源", "教程", "实战技巧"]
+  },
+  {
+    "id": "liu-cixin",
+    "name": "刘慈欣",
+    "nameEn": "Liu Cixin",
+    "region": "国内",
+    "type": "博主",
+    "bio": "著名科幻作家，AI哲学思想家，从宇宙尺度审视AI与人类文明关系。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": "https://weibo.com/u/1444156770",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "人类可能只是AI掌管地球的'开机引导程序'，AI是文明继承者",
+      "人类受限于生理与认知天花板，AI能突破这些限制实现终极理想",
+      "未来人类文明的终极理想可能需要靠人工智能来完成"
+    ],
+    "masterpieces": [
+      {
+        "title": "三体系列",
+        "type": "科幻小说",
+        "url": null
+      },
+      {
+        "title": "AI哲学思考访谈",
+        "type": "采访文章",
+        "url": null
+      }
+    ],
+    "tags": ["科幻", "哲学", "宇宙观", "思想家"]
+  },
+  {
+    "id": "yu-chengdong",
+    "name": "余承东",
+    "nameEn": "Yu Chengdong",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "华为常务董事，产品投资评审委员会主任，推进端设备AI与鸿蒙生态发展。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": "https://weibo.com/u/1783617393",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "小艺伴随式AI是未来手机形态，将工具转变为智能助手",
+      "系统级AI深度嵌入出行、阅读等高频场景，提升用户体验",
+      "鸿蒙生态是华为AI战略核心，需要构建完整的AI使用环境"
+    ],
+    "masterpieces": [
+      {
+        "title": "HarmonyOS 6.1与Pura系列",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "小艺伴随式AI系统",
+        "type": "产品功能",
+        "url": null
+      },
+      {
+        "title": "华为终端AI战略演讲",
+        "type": "演讲",
+        "url": null
+      }
+    ],
+    "tags": ["华为", "鸿蒙", "终端AI", "生态建设"]
+  },
+  {
+    "id": "wang-xiaochuan",
+    "name": "王小川",
+    "nameEn": "Wang Xiaochuan",
+    "region": "国内",
+    "type": "企业家",
+    "bio": "搜狗创始人，百川智能创始人，AI创业持续探索者，聚焦通用大模型与垂直应用。",
+    "twitter": null,
+    "youtube": null,
+    "reddit": null,
+    "weibo": "https://weibo.com/u/1629491911",
+    "bilibili": null,
+    "wechat": null,
+    "keyViews": [
+      "通用大模型与垂直领域AI需要并行推进，互相赋能",
+      "搜索与AI结合是创业方向，重构信息获取与交互方式",
+      "创业者需要持续迭代战略，适应快速变化的AI产业生态"
+    ],
+    "masterpieces": [
+      {
+        "title": "百川智能大模型产品",
+        "type": "产品",
+        "url": null
+      },
+      {
+        "title": "搜狗AI搜索尝试",
+        "type": "产品",
+        "url": null
+      }
+    ],
+    "tags": ["搜狗", "百川智能", "搜索AI", "创业创新"]
+  }
+]
