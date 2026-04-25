@@ -29,7 +29,14 @@
         "url": null
       }
     ],
-    "tags": ["OpenAI", "AGI", "AI安全", "商业化", "硅谷"]
+    "tags": [
+      "OpenAI",
+      "AGI",
+      "AI安全",
+      "商业化",
+      "硅谷",
+      "zala"
+    ]
   },
   {
     "id": "andrej-karpathy",
@@ -66,7 +73,13 @@
         "url": null
       }
     ],
-    "tags": ["深度学习", "教育", "开源", "自动化研究"]
+    "tags": [
+      "深度学习",
+      "教育",
+      "开源",
+      "自动化研究",
+      "zala"
+    ]
   },
   {
     "id": "yann-lecun",
@@ -98,7 +111,12 @@
         "url": null
       }
     ],
-    "tags": ["世界模型", "深度学习", "通用AI", "自监督学习"]
+    "tags": [
+      "世界模型",
+      "深度学习",
+      "通用AI",
+      "自监督学习"
+    ]
   },
   {
     "id": "geoffrey-hinton",
@@ -130,7 +148,12 @@
         "url": null
       }
     ],
-    "tags": ["AI安全", "风险警示", "就业冲击", "伦理"]
+    "tags": [
+      "AI安全",
+      "风险警示",
+      "就业冲击",
+      "伦理"
+    ]
   },
   {
     "id": "demis-hassabis",
@@ -167,7 +190,12 @@
         "url": null
       }
     ],
-    "tags": ["DeepMind", "强化学习", "智能体", "国际合作"]
+    "tags": [
+      "DeepMind",
+      "强化学习",
+      "智能体",
+      "国际合作"
+    ]
   },
   {
     "id": "ilya-sutskever",
@@ -199,7 +227,12 @@
         "url": null
       }
     ],
-    "tags": ["SSI", "AI安全", "AGI对齐", "研究导向"]
+    "tags": [
+      "SSI",
+      "AI安全",
+      "AGI对齐",
+      "研究导向"
+    ]
   },
   {
     "id": "fei-fei-li",
@@ -236,7 +269,12 @@
         "url": null
       }
     ],
-    "tags": ["人文AI", "计算机视觉", "伦理治理", "空间智能"]
+    "tags": [
+      "人文AI",
+      "计算机视觉",
+      "伦理治理",
+      "空间智能"
+    ]
   },
   {
     "id": "andrew-ng",
@@ -273,7 +311,12 @@
         "url": null
       }
     ],
-    "tags": ["教育", "机器学习", "在线课程", "AI民主化"]
+    "tags": [
+      "教育",
+      "机器学习",
+      "在线课程",
+      "AI民主化"
+    ]
   },
   {
     "id": "jim-fan",
@@ -310,7 +353,12 @@
         "url": null
       }
     ],
-    "tags": ["具身智能", "物理AI", "机器人", "基础模型"]
+    "tags": [
+      "具身智能",
+      "物理AI",
+      "机器人",
+      "基础模型"
+    ]
   },
   {
     "id": "elon-musk",
@@ -347,7 +395,12 @@
         "url": null
       }
     ],
-    "tags": ["xAI", "自动驾驶", "人形机器人", "企业家"]
+    "tags": [
+      "xAI",
+      "自动驾驶",
+      "人形机器人",
+      "企业家"
+    ]
   },
   {
     "id": "jensen-huang",
@@ -379,7 +432,12 @@
         "url": null
       }
     ],
-    "tags": ["NVIDIA", "GPU芯片", "AI基础设施", "加速计算"]
+    "tags": [
+      "NVIDIA",
+      "GPU芯片",
+      "AI基础设施",
+      "加速计算"
+    ]
   },
   {
     "id": "reid-hoffman",
@@ -411,7 +469,12 @@
         "url": null
       }
     ],
-    "tags": ["LinkedIn", "风险投资", "创业", "AI赋能"]
+    "tags": [
+      "LinkedIn",
+      "风险投资",
+      "创业",
+      "AI赋能"
+    ]
   },
   {
     "id": "marc-andreessen",
@@ -443,7 +506,12 @@
         "url": null
       }
     ],
-    "tags": ["a16z", "风险投资", "乐观主义", "工业革命"]
+    "tags": [
+      "a16z",
+      "风险投资",
+      "乐观主义",
+      "工业革命"
+    ]
   },
   {
     "id": "dario-amodei",
@@ -480,7 +548,12 @@
         "url": null
       }
     ],
-    "tags": ["Anthropic", "AI安全", "宪法AI", "对齐研究"]
+    "tags": [
+      "Anthropic",
+      "AI安全",
+      "宪法AI",
+      "对齐研究"
+    ]
   },
   {
     "id": "greg-brockman",
@@ -512,7 +585,12 @@
         "url": null
       }
     ],
-    "tags": ["工程", "研究", "架构设计", "团队建设"]
+    "tags": [
+      "工程",
+      "研究",
+      "架构设计",
+      "团队建设"
+    ]
   },
   {
     "id": "ethan-mollick",
@@ -544,7 +622,12 @@
         "url": null
       }
     ],
-    "tags": ["教育", "协作", "实践", "AI赋能"]
+    "tags": [
+      "教育",
+      "协作",
+      "实践",
+      "AI赋能"
+    ]
   },
   {
     "id": "gary-marcus",
@@ -576,7 +659,12 @@
         "url": null
       }
     ],
-    "tags": ["AI批评", "神经符号AI", "监管", "科学方法"]
+    "tags": [
+      "AI批评",
+      "神经符号AI",
+      "监管",
+      "科学方法"
+    ]
   },
   {
     "id": "lex-fridman",
@@ -608,7 +696,12 @@
         "url": null
       }
     ],
-    "tags": ["播客", "对话", "伦理", "哲学"]
+    "tags": [
+      "播客",
+      "对话",
+      "伦理",
+      "哲学"
+    ]
   },
   {
     "id": "ben-thompson",
@@ -640,7 +733,12 @@
         "url": null
       }
     ],
-    "tags": ["战略分析", "商业模式", "竞争格局", "科技产业"]
+    "tags": [
+      "战略分析",
+      "商业模式",
+      "竞争格局",
+      "科技产业"
+    ]
   },
   {
     "id": "li-yanhong",
@@ -677,7 +775,12 @@
         "url": null
       }
     ],
-    "tags": ["百度", "文心", "自动驾驶", "产业结构"]
+    "tags": [
+      "百度",
+      "文心",
+      "自动驾驶",
+      "产业结构"
+    ]
   },
   {
     "id": "zhang-chaoyang",
@@ -709,7 +812,12 @@
         "url": null
       }
     ],
-    "tags": ["搜狐", "理性", "工具论", "内容生态"]
+    "tags": [
+      "搜狐",
+      "理性",
+      "工具论",
+      "内容生态"
+    ]
   },
   {
     "id": "wang-huiwen",
@@ -741,7 +849,12 @@
         "url": null
       }
     ],
-    "tags": ["美团", "光年之外", "消费级AI", "应用创新"]
+    "tags": [
+      "美团",
+      "光年之外",
+      "消费级AI",
+      "应用创新"
+    ]
   },
   {
     "id": "yang-zhizhen",
@@ -773,7 +886,12 @@
         "url": null
       }
     ],
-    "tags": ["Moonshot", "Kimi", "AGI", "长期主义"]
+    "tags": [
+      "Moonshot",
+      "Kimi",
+      "AGI",
+      "长期主义"
+    ]
   },
   {
     "id": "liang-rubo",
@@ -805,7 +923,12 @@
         "url": null
       }
     ],
-    "tags": ["字节跳动", "豆包", "模型能力", "产品创新"]
+    "tags": [
+      "字节跳动",
+      "豆包",
+      "模型能力",
+      "产品创新"
+    ]
   },
   {
     "id": "zhu-xiaohu",
@@ -837,7 +960,12 @@
         "url": null
       }
     ],
-    "tags": ["投资", "应用层", "商业模式", "创业指导"]
+    "tags": [
+      "投资",
+      "应用层",
+      "商业模式",
+      "创业指导"
+    ]
   },
   {
     "id": "zhu-songchun",
@@ -869,7 +997,12 @@
         "url": null
       }
     ],
-    "tags": ["北大", "通用AI", "理论研究", "人才培养"]
+    "tags": [
+      "北大",
+      "通用AI",
+      "理论研究",
+      "人才培养"
+    ]
   },
   {
     "id": "tang-jie",
@@ -901,7 +1034,12 @@
         "url": null
       }
     ],
-    "tags": ["清华", "智谱AI", "GLM", "科学计算"]
+    "tags": [
+      "清华",
+      "智谱AI",
+      "GLM",
+      "科学计算"
+    ]
   },
   {
     "id": "zhang-bo",
@@ -933,7 +1071,12 @@
         "url": null
       }
     ],
-    "tags": ["清华", "院士", "理论研究", "应用转化"]
+    "tags": [
+      "清华",
+      "院士",
+      "理论研究",
+      "应用转化"
+    ]
   },
   {
     "id": "guizang",
@@ -970,7 +1113,12 @@
         "url": null
       }
     ],
-    "tags": ["提示词", "开源", "教程", "实战技巧"]
+    "tags": [
+      "提示词",
+      "开源",
+      "教程",
+      "实战技巧"
+    ]
   },
   {
     "id": "liu-cixin",
@@ -1002,7 +1150,12 @@
         "url": null
       }
     ],
-    "tags": ["科幻", "哲学", "宇宙观", "思想家"]
+    "tags": [
+      "科幻",
+      "哲学",
+      "宇宙观",
+      "思想家"
+    ]
   },
   {
     "id": "yu-chengdong",
@@ -1039,7 +1192,12 @@
         "url": null
       }
     ],
-    "tags": ["华为", "鸿蒙", "终端AI", "生态建设"]
+    "tags": [
+      "华为",
+      "鸿蒙",
+      "终端AI",
+      "生态建设"
+    ]
   },
   {
     "id": "wang-xiaochuan",
@@ -1071,6 +1229,911 @@
         "url": null
       }
     ],
-    "tags": ["搜狗", "百川智能", "搜索AI", "创业创新"]
+    "tags": [
+      "搜狗",
+      "百川智能",
+      "搜索AI",
+      "创业创新"
+    ]
+  },
+  {
+    "id": "latent-space-pod",
+    "name": "Latent Space",
+    "nameEn": "Latent Space Podcast",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "AI工程师向播客，深度访谈AI研究者和创业者，技术含量高",
+    "twitter": "https://x.com/latentspacepod",
+    "youtube": "https://www.youtube.com/@LatentSpacePod",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI工程师是新时代的架构师",
+      "深度技术内容胜过浅层热点",
+      "AI产品与研究的交汇点最有价值"
+    ],
+    "masterpieces": [
+      {
+        "title": "Latent Space YouTube频道",
+        "type": "Podcast",
+        "url": "https://www.youtube.com/@LatentSpacePod"
+      }
+    ],
+    "tags": [
+      "Podcast",
+      "AI工程",
+      "技术访谈",
+      "zala"
+    ]
+  },
+  {
+    "id": "training-data-pod",
+    "name": "Training Data",
+    "nameEn": "Training Data Podcast",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "Google DeepMind出品，聚焦AI前沿研究与产品",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI研究与产品落地的桥梁",
+      "深度学习前沿进展",
+      "DeepMind内部视角"
+    ],
+    "masterpieces": [
+      {
+        "title": "Training Data Podcast",
+        "type": "Podcast",
+        "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+      }
+    ],
+    "tags": [
+      "Podcast",
+      "DeepMind",
+      "AI研究",
+      "zala"
+    ]
+  },
+  {
+    "id": "no-priors-pod",
+    "name": "No Priors",
+    "nameEn": "No Priors Podcast",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "a16z出品AI播客，聚焦AI创业、投资与技术趋势",
+    "twitter": "https://x.com/nopriorsai",
+    "youtube": "https://www.youtube.com/@NoPriorsPodcast",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI创业机会在应用层",
+      "基础模型竞争格局已定",
+      "AI投资进入垂直场景阶段"
+    ],
+    "masterpieces": [
+      {
+        "title": "No Priors YouTube频道",
+        "type": "Podcast",
+        "url": "https://www.youtube.com/@NoPriorsPodcast"
+      }
+    ],
+    "tags": [
+      "Podcast",
+      "AI投资",
+      "a16z",
+      "zala"
+    ]
+  },
+  {
+    "id": "unsupervised-learning-pod",
+    "name": "Unsupervised Learning",
+    "nameEn": "Unsupervised Learning",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "Redpoint Ventures出品，访谈AI领域创始人与研究者",
+    "twitter": null,
+    "youtube": "https://www.youtube.com/@RedpointAI",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI基础设施是下一个大机会",
+      "开源模型正在重塑竞争格局",
+      "创始人视角比分析师更有价值"
+    ],
+    "masterpieces": [
+      {
+        "title": "Unsupervised Learning YouTube频道",
+        "type": "Podcast",
+        "url": "https://www.youtube.com/@RedpointAI"
+      }
+    ],
+    "tags": [
+      "Podcast",
+      "AI创业",
+      "VC视角",
+      "zala"
+    ]
+  },
+  {
+    "id": "mad-podcast",
+    "name": "The MAD Podcast",
+    "nameEn": "The MAD Podcast with Matt Turck",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "FirstMark Capital的Matt Turck主持，聚焦机器学习与数据基础设施",
+    "twitter": "https://x.com/mattturck",
+    "youtube": "https://www.youtube.com/@DataDrivenNYC",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "数据基础设施是AI的命脉",
+      "MLOps正在成熟",
+      "AI落地企业的关键在数据治理"
+    ],
+    "masterpieces": [
+      {
+        "title": "MAD Landscape年度报告",
+        "type": "报告",
+        "url": null
+      }
+    ],
+    "tags": [
+      "Podcast",
+      "ML基础设施",
+      "数据",
+      "zala"
+    ]
+  },
+  {
+    "id": "ai-and-i-every",
+    "name": "AI & I by Every",
+    "nameEn": "AI & I by Every",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "Every旗下播客，探讨AI对知识工作者的影响",
+    "twitter": "https://x.com/every",
+    "youtube": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": "https://every.to",
+    "keyViews": [
+      "AI正在重塑知识工作",
+      "提示工程是新的核心技能",
+      "创意工作者将是AI最大受益者"
+    ],
+    "masterpieces": [
+      {
+        "title": "AI & I YouTube播放列表",
+        "type": "Podcast",
+        "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+      }
+    ],
+    "tags": [
+      "Podcast",
+      "知识工作",
+      "AI写作",
+      "zala"
+    ]
+  },
+  {
+    "id": "swyx",
+    "name": "Swyx",
+    "nameEn": "shawn @swyx",
+    "region": "国外",
+    "type": "博主",
+    "bio": "Latent Space联创，AI工程社区核心人物，专注AI工程实践",
+    "twitter": "https://x.com/swyx",
+    "youtube": "https://www.youtube.com/@LatentSpacePod",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": "https://swyx.io",
+    "keyViews": [
+      "AI工程是独立职业方向",
+      "学习曲线公开比闭门造车更快",
+      "AI Native产品需要全新设计范式"
+    ],
+    "masterpieces": [
+      {
+        "title": "Latent Space Podcast",
+        "type": "Podcast",
+        "url": "https://www.latent.space"
+      },
+      {
+        "title": "swyx.io博客",
+        "type": "博客",
+        "url": "https://swyx.io"
+      }
+    ],
+    "tags": [
+      "AI工程",
+      "开发者社区",
+      "zala"
+    ]
+  },
+  {
+    "id": "josh-woodward",
+    "name": "Josh Woodward",
+    "nameEn": "Josh Woodward",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Google Labs VP，负责NotebookLM、Gemini等产品",
+    "twitter": "https://x.com/joshwoodward",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI产品要降低认知负担",
+      "NotebookLM证明AI可以扩展人类知识处理能力",
+      "用户价值而非技术炫耀是产品核心"
+    ],
+    "masterpieces": [
+      {
+        "title": "NotebookLM",
+        "type": "产品",
+        "url": "https://notebooklm.google.com"
+      }
+    ],
+    "tags": [
+      "Google",
+      "AI产品",
+      "NotebookLM",
+      "zala"
+    ]
+  },
+  {
+    "id": "kevin-weil",
+    "name": "Kevin Weil",
+    "nameEn": "Kevin Weil",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "OpenAI首席产品官，前Instagram/Twitter产品VP",
+    "twitter": "https://x.com/kevinweil",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI产品的护城河在用户体验而非技术",
+      "消费者AI产品仍处于早期",
+      "GPT系列是最重要的平台转变"
+    ],
+    "masterpieces": [
+      {
+        "title": "ChatGPT产品体系",
+        "type": "产品",
+        "url": "https://openai.com/chatgpt"
+      }
+    ],
+    "tags": [
+      "OpenAI",
+      "AI产品",
+      "CPO",
+      "zala"
+    ]
+  },
+  {
+    "id": "peter-yang",
+    "name": "Peter Yang",
+    "nameEn": "Peter Yang",
+    "region": "国外",
+    "type": "博主",
+    "bio": "前Roblox产品负责人，专注AI产品思维与创作者经济",
+    "twitter": "https://x.com/petergyang",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": "https://creatoreconomy.so",
+    "keyViews": [
+      "创作者经济与AI的融合是大趋势",
+      "AI将颠覆内容生产成本结构",
+      "产品经理必须学会用AI构建"
+    ],
+    "masterpieces": [
+      {
+        "title": "Creator Economy Newsletter",
+        "type": "通讯",
+        "url": "https://creatoreconomy.so"
+      }
+    ],
+    "tags": [
+      "AI产品",
+      "创作者经济",
+      "博主",
+      "zala"
+    ]
+  },
+  {
+    "id": "nan-yu",
+    "name": "Nan Yu",
+    "nameEn": "Nan Yu @thenanyu",
+    "region": "国外",
+    "type": "博主",
+    "bio": "AI产品与工程博主，关注AI应用层创业",
+    "twitter": "https://x.com/thenanyu",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI应用层的壁垒在于数据飞轮",
+      "大模型商品化趋势不可逆",
+      "AI原生产品体验远优于AI功能叠加"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "AI应用",
+      "创业",
+      "zala"
+    ]
+  },
+  {
+    "id": "amanda-askell",
+    "name": "Amanda Askell",
+    "nameEn": "Amanda Askell",
+    "region": "国外",
+    "type": "研究者",
+    "bio": "Anthropic研究员，Claude模型人格与对齐设计核心贡献者",
+    "twitter": "https://x.com/AmandaAskell",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI对齐需要哲学思维",
+      "Claude的人格设计是有意为之的",
+      "价值观植入是比规则约束更好的对齐方式"
+    ],
+    "masterpieces": [
+      {
+        "title": "Constitutional AI论文",
+        "type": "论文",
+        "url": null
+      }
+    ],
+    "tags": [
+      "Anthropic",
+      "AI对齐",
+      "Claude",
+      "zala"
+    ]
+  },
+  {
+    "id": "amjad-masad",
+    "name": "Amjad Masad",
+    "nameEn": "Amjad Masad",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Replit CEO，AI编程平台先驱，让任何人都能编程",
+    "twitter": "https://x.com/amasad",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "未来每个人都是程序员",
+      "AI将消除编程门槛",
+      "Vibe coding是下一代软件开发范式"
+    ],
+    "masterpieces": [
+      {
+        "title": "Replit",
+        "type": "产品",
+        "url": "https://replit.com"
+      }
+    ],
+    "tags": [
+      "AI编程",
+      "Replit",
+      "Vibe Coding",
+      "zala"
+    ]
+  },
+  {
+    "id": "guillermo-rauch",
+    "name": "Guillermo Rauch",
+    "nameEn": "Guillermo Rauch",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Vercel CEO，Next.js创始人，AI时代前端基础设施领导者",
+    "twitter": "https://x.com/rauchg",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "前端开发者是AI时代最受益的工程群体",
+      "AI将重新定义网络应用架构",
+      "边缘计算+AI是下一个平台"
+    ],
+    "masterpieces": [
+      {
+        "title": "Vercel",
+        "type": "产品",
+        "url": "https://vercel.com"
+      },
+      {
+        "title": "Next.js",
+        "type": "开源项目",
+        "url": "https://nextjs.org"
+      }
+    ],
+    "tags": [
+      "Vercel",
+      "Next.js",
+      "前端AI",
+      "zala"
+    ]
+  },
+  {
+    "id": "alex-albert",
+    "name": "Alex Albert",
+    "nameEn": "Alex Albert",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Anthropic开发者关系负责人，Claude API与开发者生态推广者",
+    "twitter": "https://x.com/alexalbert__",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "开发者体验是AI平台竞争的关键",
+      "Claude API的设计以安全为优先",
+      "提示工程是临时技能，最终会被抽象掉"
+    ],
+    "masterpieces": [
+      {
+        "title": "Anthropic开发者文档",
+        "type": "文档",
+        "url": "https://docs.anthropic.com"
+      }
+    ],
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "开发者关系",
+      "zala"
+    ]
+  },
+  {
+    "id": "aaron-levie",
+    "name": "Aaron Levie",
+    "nameEn": "Aaron Levie",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Box CEO，企业AI应用最具洞察力的评论者之一",
+    "twitter": "https://x.com/levie",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "企业AI的核心是流程自动化而非功能叠加",
+      "AI Agent将重构企业软件架构",
+      "数据安全是企业AI最大障碍"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "企业AI",
+      "Box",
+      "SaaS",
+      "zala"
+    ]
+  },
+  {
+    "id": "garry-tan",
+    "name": "Garry Tan",
+    "nameEn": "Garry Tan",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "Y Combinator CEO，支持AI创业公司最活跃的投资人之一",
+    "twitter": "https://x.com/garrytan",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI创业的最佳时机就是现在",
+      "10人团队用AI可以完成百人公司的工作",
+      "YC投资组合中AI公司占比超过50%"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "YC",
+      "AI创业",
+      "投资",
+      "zala"
+    ]
+  },
+  {
+    "id": "matt-turck",
+    "name": "Matt Turck",
+    "nameEn": "Matt Turck",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "FirstMark Capital合伙人，年度MAD Landscape报告作者，数据/AI基础设施专家",
+    "twitter": "https://x.com/mattturck",
+    "youtube": "https://www.youtube.com/@DataDrivenNYC",
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "数据基础设施是AI的地基",
+      "MLOps工具链正在成熟",
+      "AI浪潮类似云计算但速度快十倍"
+    ],
+    "masterpieces": [
+      {
+        "title": "MAD Landscape 2024",
+        "type": "报告",
+        "url": "https://mattturck.com/mad2024/"
+      }
+    ],
+    "tags": [
+      "AI基础设施",
+      "VC",
+      "数据",
+      "zala"
+    ]
+  },
+  {
+    "id": "zara-zhang",
+    "name": "Zara Zhang",
+    "nameEn": "Zara Zhang",
+    "region": "国外",
+    "type": "博主",
+    "bio": "GGV Capital投资人，关注中美AI创业与技术差异",
+    "twitter": "https://x.com/zarazhangrui",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "中国AI创业的差异化在于场景落地",
+      "中美AI生态系统的底层逻辑不同",
+      "AI产品的文化适配比技术更难"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "中美AI",
+      "VC",
+      "创业",
+      "zala"
+    ]
+  },
+  {
+    "id": "dan-shipper",
+    "name": "Dan Shipper",
+    "nameEn": "Dan Shipper",
+    "region": "国外",
+    "type": "博主",
+    "bio": "Every媒体CEO，AI对知识工作影响最敏锐的观察者",
+    "twitter": "https://x.com/danshipper",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": "https://every.to",
+    "keyViews": [
+      "AI是知识工作者的乘数器",
+      "创意与AI协作是新型竞争力",
+      "写作是AI时代最重要的人类技能"
+    ],
+    "masterpieces": [
+      {
+        "title": "Every.to",
+        "type": "媒体",
+        "url": "https://every.to"
+      }
+    ],
+    "tags": [
+      "AI写作",
+      "知识工作",
+      "Every",
+      "zala"
+    ]
+  },
+  {
+    "id": "thariq",
+    "name": "Thariq",
+    "nameEn": "@trq212",
+    "region": "国外",
+    "type": "博主",
+    "bio": "AI产品与工程博主",
+    "twitter": "https://x.com/trq212",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI产品工程实践",
+      "AI工具链探索",
+      "开发者视角分析AI趋势"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "AI工程",
+      "博主",
+      "zala"
+    ]
+  },
+  {
+    "id": "google-labs",
+    "name": "Google Labs",
+    "nameEn": "Google Labs",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "Google实验性AI产品官方账号，发布NotebookLM等前沿产品",
+    "twitter": "https://x.com/GoogleLabs",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": "https://labs.google",
+    "keyViews": [
+      "AI实验产品先行探索",
+      "NotebookLM重新定义知识管理",
+      "Google AI能力向公众开放"
+    ],
+    "masterpieces": [
+      {
+        "title": "NotebookLM",
+        "type": "产品",
+        "url": "https://notebooklm.google.com"
+      }
+    ],
+    "tags": [
+      "Google",
+      "AI产品",
+      "NotebookLM",
+      "zala"
+    ]
+  },
+  {
+    "id": "cat-wu",
+    "name": "Cat Wu",
+    "nameEn": "@_catwu",
+    "region": "国外",
+    "type": "博主",
+    "bio": "AI产品设计与UX研究者，关注AI交互体验",
+    "twitter": "https://x.com/_catwu",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI产品设计需要新范式",
+      "UX是AI产品差异化的关键",
+      "人机协作体验设计"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "AI设计",
+      "UX",
+      "zala"
+    ]
+  },
+  {
+    "id": "ryo-lu",
+    "name": "Ryo Lu",
+    "nameEn": "@ryolu_",
+    "region": "国外",
+    "type": "博主",
+    "bio": "AI产品与工程博主，关注AI原生应用开发",
+    "twitter": "https://x.com/ryolu_",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI原生应用的设计逻辑",
+      "AI工具链选型与实践",
+      "开发者如何高效使用AI"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "AI应用",
+      "开发者",
+      "zala"
+    ]
+  },
+  {
+    "id": "nikunj-kothari",
+    "name": "Nikunj Kothari",
+    "nameEn": "@nikunj",
+    "region": "国外",
+    "type": "博主",
+    "bio": "AI产品思考者，专注AI在企业和个人生产力中的应用",
+    "twitter": "https://x.com/nikunj",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI工具正在重塑个人生产力",
+      "企业AI采用的最大障碍是变革管理",
+      "AI应用的关键是工作流整合"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "AI生产力",
+      "企业AI",
+      "zala"
+    ]
+  },
+  {
+    "id": "peter-steinberger",
+    "name": "Peter Steinberger",
+    "nameEn": "@steipete",
+    "region": "国外",
+    "type": "博主",
+    "bio": "PSPDFKit/Nutrient CEO，AI编程工具重度用户与传播者",
+    "twitter": "https://x.com/steipete",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": "https://steipete.me",
+    "keyViews": [
+      "Claude Code是目前最好的AI编程工具",
+      "Vibe Coding正在改变软件开发",
+      "AI编程工具的使用经验值得公开分享"
+    ],
+    "masterpieces": [
+      {
+        "title": "steipete.me博客",
+        "type": "博客",
+        "url": "https://steipete.me"
+      }
+    ],
+    "tags": [
+      "AI编程",
+      "Claude Code",
+      "Vibe Coding",
+      "zala"
+    ]
+  },
+  {
+    "id": "aditya-agarwal",
+    "name": "Aditya Agarwal",
+    "nameEn": "@adityaag",
+    "region": "国外",
+    "type": "企业家",
+    "bio": "前Dropbox CTO，现专注AI创业投资",
+    "twitter": "https://x.com/adityaag",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI将重塑协作软件",
+      "个人生产力工具是AI最先落地的场景",
+      "工程文化决定AI创业成败"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "AI投资",
+      "创业",
+      "SaaS",
+      "zala"
+    ]
+  },
+  {
+    "id": "claude-ai",
+    "name": "Claude AI",
+    "nameEn": "@claudeai",
+    "region": "国外",
+    "type": "媒体",
+    "bio": "Anthropic旗下Claude官方X账号",
+    "twitter": "https://x.com/claudeai",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": "https://claude.ai",
+    "keyViews": [
+      "有帮助、无害、诚实是AI设计原则",
+      "AI助手应增强而非替代人类能力",
+      "Constitutional AI是对齐的新路径"
+    ],
+    "masterpieces": [
+      {
+        "title": "Claude.ai",
+        "type": "产品",
+        "url": "https://claude.ai"
+      }
+    ],
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "AI助手",
+      "zala"
+    ]
+  },
+  {
+    "id": "madhu-guru",
+    "name": "Madhu Guru",
+    "nameEn": "@realmadhuguru",
+    "region": "国外",
+    "type": "博主",
+    "bio": "AI产品与创业博主，关注AI工具实战应用",
+    "twitter": "https://x.com/realmadhuguru",
+    "youtube": null,
+    "reddit": null,
+    "weibo": null,
+    "bilibili": null,
+    "wechat": null,
+    "blog": null,
+    "keyViews": [
+      "AI工具改变个人工作流",
+      "实战测评比理论分析更有价值",
+      "AI创业窗口期正在收窄"
+    ],
+    "masterpieces": [],
+    "tags": [
+      "AI工具",
+      "博主",
+      "zala"
+    ]
   }
 ]
